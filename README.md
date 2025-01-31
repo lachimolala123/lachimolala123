@@ -2,7 +2,6 @@
 <h3 align="center">I am a first year student in CSE who is passionate about coding,AI and exploring the Tech Universe :)</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lachimolala123&label=Profile%20views&color=0e75b6&style=flat" alt="lachimolala123" /> </p>
 
 - 📫 How to reach me **ashnasahi1236@gmail.com**
 
