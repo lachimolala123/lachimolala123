@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ashna</h1>
 <h3 align="right">I am a first year student in CSE who is passionate about coding,AI and exploring the Tech Universe :)</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
 
-<h3 align="right">Github Stats</h3>
+<h3 align="left">Github Stats</h3>
 
 ![Ashna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachimolala123&theme=dark&show_icons=true)
 
